@@ -22,7 +22,7 @@
 - 2024 인천공항 교통체계 개선 아이디어 공모전 **(진행중)**
 </br>
 
-## 🌐 Connect with Me
+## 🙋🏻‍♀️ Connect with Me
 - Email: rkh97@naver.com
 - instagram: [@kyunghee_917](https://www.instagram.com/kyunghee_917/)
 
