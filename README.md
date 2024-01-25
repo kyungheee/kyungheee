@@ -9,11 +9,11 @@
 
 
 ## 👩🏻‍💻 Skills & Expertise
-- Programming Languages: Python, C
-- Data Visualization: Tableau
-- Design Tools: Figma
-- 3D Modeling: Blender
-- Photo Editing: Adobe Lightroom Classic
+- Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+- Data Visualization: <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+- Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+- 3D Modeling: <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/>
+- Photo Editing: <img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=flat-square&logo=Adobe Lightroom Classic&logoColor=white"/>
 </br>
 
 ## 🚀 **Projects**
