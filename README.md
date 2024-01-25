@@ -17,8 +17,8 @@
 </br>
 
 ## 🚀 **Projects**
-- 2023 전주시 데이터 분석 공모전
-- 2023 새만금 공공 빅데이터 활용 공모전
+- 2023 전주시 데이터 분석 공모전 [click!](https://github.com/kyungheee/2023_Jeonju_Data_Analysis_Competition)
+- 2023 새만금 공공 빅데이터 활용 공모전 [click!](https://github.com/kyungheee/2023_Saemangeum_Data_Analysis_Competition)
 - 2024 인천공항 교통체계 개선 아이디어 공모전 (진행중)
 </br>
 
