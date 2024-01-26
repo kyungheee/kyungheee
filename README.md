@@ -14,7 +14,7 @@
 - Data Visualization: <img src="https://img.shields.io/badge/Tableau-004088?style=plastic&logo=Tableau&logoColor=white"/>
 - Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
 - 3D Modeling: <img src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=Blender&logoColor=white"/>
-- Photo Editing: <img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=plastic&logo=Adobe Lightroom Classic&logoColor=white"/>
+- Photo Editing: <img src="https://img.shields.io/badge/Adobe Lightroom Classic-41454A?style=plastic&logo=Adobe Lightroom Classic&logoColor=white"/>
 </br>
 
 ## 🚀 **Projects**
