@@ -11,7 +11,7 @@
 ## 👩🏻‍💻 Skills & Expertise
 - Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
 - Deep Learning Frameworks: <img src="https://img.shields.io/badge/pytorch-DD0700?style=plastic&logo=pytorch&logoColor=white"/>
-- Data Visualization: <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"/>
+- Data Visualization: <img src="https://img.shields.io/badge/Tableau-004088?style=plastic&logo=Tableau&logoColor=white"/>
 - Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
 - 3D Modeling: <img src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=Blender&logoColor=white"/>
 - Photo Editing: <img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?style=plastic&logo=Adobe Lightroom Classic&logoColor=white"/>
