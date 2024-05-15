@@ -25,7 +25,6 @@
 
 ## 🙋🏻‍♀️ Connect with Me
 - Email: rkh97@naver.com
-- instagram: [@kyunghee_917](https://www.instagram.com/kyunghee_917/)
 
 <!--
 **kyungheee/kyungheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
