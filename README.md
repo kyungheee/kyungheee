@@ -18,9 +18,9 @@
 </br>
 
 ## ❤️ **Projects** 
-- 줄넘기 (with 레이놀즈) : 1단 줄넘기와 2단 줄넘기를 분류해내는 LSTM 모델 제안
-- 자율주행 (with 삼성전자) : 자율주행 차량용 인공지능이 공유 저장소 시스템에 발생시키는 I/O 분석
-- 자율주행 2 : Quantifying Uncertainty in Multi-Object Tracking and Prediction (진행중) 
+- 1단 줄넘기와 2단 줄넘기를 분류해내는 LSTM 모델 제안
+- 자율주행 차량용 인공지능이 공유 저장소 시스템에 발생시키는 I/O 분석
+- Quantifying Uncertainty in Multi-Object Tracking and Prediction (진행중) 
 
 </br>
 
