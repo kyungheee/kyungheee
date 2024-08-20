@@ -28,6 +28,7 @@
 - 2024 인천공항 교통체계 개선 아이디어 공모전 [click!](https://github.com/kyungheee/2024-Incheon-International-Airport-MaaS-Project)
 - 2024 삼성 AI Challenge : black-box optimization (in progress)
 
+</br>
 
 
 ## 👩🏻‍💻 Skills & Expertise
