@@ -7,7 +7,7 @@
 - Master's: Mathematics (MDS) at Korea University
 </br>
 
-## 🍀 Areas of Interest
+## 🌳 Areas of Interest
 - Probabilistic Optimization
 - Motion Prediction
 - Object Detection
