@@ -14,12 +14,11 @@
 - Data Visualization: <img src="https://img.shields.io/badge/Tableau-004088?style=plastic&logo=Tableau&logoColor=white"/>
 - Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
 - 3D Modeling: <img src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=Blender&logoColor=white"/>
-- Photo Editing: <img src="https://img.shields.io/badge/Adobe Lightroom Classic-41454A?style=plastic&logo=Adobe Lightroom Classic&logoColor=white"/>
 </br>
 
 ## ❤️ **Projects** 
 - 1단 줄넘기와 2단 줄넘기를 분류해내는 LSTM 모델 제안
-- 자율주행 차량용 인공지능이 공유 저장소 시스템에 발생시키는 I/O 분석
+- I/O Workload Analysis of AI Applications for Autonomous Vehicles with Shared Storage [click!](https://aiml-k.github.io/publication/2024kcc-roh-kim-lee-lee-jin-lee/)
 - Quantifying Uncertainty in Multi-Object Tracking and Prediction (진행중) 
 
 </br>
