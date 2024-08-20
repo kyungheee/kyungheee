@@ -16,9 +16,9 @@
 </br>
 
 ## ❤️ **Projects** 
-- 1단 줄넘기와 2단 줄넘기를 분류해내는 LSTM 모델 제안
+- LSTM model to classify single jump and double jumps in jump-rope
 - I/O Workload Analysis of AI Applications for Autonomous Vehicles with Shared Storage [click!](https://aiml-k.github.io/publication/2024kcc-roh-kim-lee-lee-jin-lee/)
-- Quantifying Uncertainty in Multi-Object Tracking and Prediction (진행중) 
+- Quantifying Uncertainty in Multi-Object Tracking and Prediction (in progress)
 
 </br>
 
@@ -26,7 +26,7 @@
 - 2023 전주시 데이터 분석 공모전 [click!](https://github.com/kyungheee/2023_Jeonju_Data_Analysis_Competition)
 - 2023 새만금 공공 빅데이터 활용 공모전 [click!](https://github.com/kyungheee/2023_Saemangeum_Data_Analysis_Competition)
 - 2024 인천공항 교통체계 개선 아이디어 공모전 [click!](https://github.com/kyungheee/2024-Incheon-International-Airport-MaaS-Project)
-- 2024 삼성 AI Challenge : black-box optimization (진행중)
+- 2024 삼성 AI Challenge : black-box optimization (in progress)
 
 
 
