@@ -9,8 +9,7 @@
 
 ## 🌳 Areas of Interest
 - Probabilistic Optimization
-- Motion Prediction
-- Object Detection
+- Motion Prediction in Collaborative Driving
 - Simultaneous Localization and Mapping (SLAM)
 
 </br>
