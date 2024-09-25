@@ -8,7 +8,7 @@
 </br>
 
 ## 🌳 Areas of Interest
-- Probabilistic Optimization
+- Bayesian Optimization
 - Motion Prediction in Collaborative Driving
 - Simultaneous Localization and Mapping (SLAM)
 
