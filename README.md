@@ -9,15 +9,14 @@
 
 ## 🌳 Areas of Interest
 - Bayesian Optimization
-- Motion Prediction in Collaborative Driving
-- Simultaneous Localization and Mapping (SLAM)
+- Graph Neural Network
+- Computer Vision (autonomous driving)
 
 </br>
 
 ## ❤️ **Projects** 
 - LSTM model to classify single jump and double jumps in jump-rope
 - I/O Workload Analysis of AI Applications for Autonomous Vehicles with Shared Storage [click!](https://aiml-k.github.io/publication/2024kcc-roh-kim-lee-lee-jin-lee/)
-- Quantifying Uncertainty in Multi-Object Tracking and Prediction (in progress)
 
 </br>
 
