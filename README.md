@@ -10,7 +10,7 @@
 ## 🌳 Areas of Interest
 - Bayesian Optimization
 - Graph Neural Network
-- Computer Vision (autonomous driving)
+- Computer Vision 
 
 </br>
 
@@ -40,7 +40,6 @@
 
 ## 🙋🏻‍♀️ Connect with Me
 - Email: rkh97@naver.com
-- Blog : kyungheee의 기록 🍊 [click!](https://kyungheee97.tistory.com/)
 
 <!--
 **kyungheee/kyungheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
