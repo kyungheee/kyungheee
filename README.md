@@ -2,7 +2,7 @@
 
 </br>
 
-## 🎓 **Education**
+## 🎓 Education
 
 - **Master's in Mathematics (Mathematical Data Science)**
   <img src="https://tse4.mm.bing.net/th?id=OIP.ywoAbEb_rusVR5ZQbmYFMgHaEO&w=270&h=270&c=7" width="20"/> Korea University
@@ -22,7 +22,7 @@
 
 </br>
 
-## 🚀 **Projects**
+## 🚀 Projects
 
 - **Samsung AI Challenge: Black-box Optimization 2024**  
   Developed an offline model for black-box optimization algorithms. [GitHub](https://github.com/kyungheee/2024-Samsung-AI-Challenge-Black-box-Optimization)
@@ -43,14 +43,14 @@
 
 </br>
 
-## 👥 **Teams**
+## 👥 Teams
 - [<img src="https://avatars.githubusercontent.com/u/63897625?s=200&v=4" width="20"/>](https://github.com/airing-ku) **AIML@K**: Artificial Intelligence Mathematics Laboratory in Korea University
 - [<img src="https://avatars.githubusercontent.com/u/186797904?s=200&v=4" width="20"/>](https://github.com/airing-ku) **Airing**: demand-responsive mobility service for Incheon Airport with optimal pod formation and route optimization
 - [<img src="https://avatars.githubusercontent.com/u/194212824?s=200&v=4" width="20"/>](https://github.com/moobean) **Moobean**: AI trainer providing motion recognition and real-time voice feedback for effective workouts 
 
 </br>
 
-## 👩🏻‍💻 Skills & Expertise
+## 👩🏻‍💻 Stacks
 - Programming Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-36454F?style=plastic&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/SQL-006400?style=plastic&logo=MySQL&logoColor=white"/>
 - Deep Learning: <img src="https://img.shields.io/badge/PyTorch-DD0700?style=plastic&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
 - Web Development: <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
