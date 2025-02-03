@@ -14,10 +14,10 @@
 
 ## 🌳 Interest
 
-- **📊 Bayesian Optimization:** Probabilistic models for efficient tuning and decision-making.  
-- **📱 Computer Vision:** Image, object, and action recognition for real-world tasks.  
-- **🚗 Autonomous Systems:** AI for perception, motion prediction, and decision-making.  
-- **🌐 Graph Neural Networks:** Learning from graph data for complex relationships.
+- **Bayesian Optimization:** Probabilistic models for efficient tuning and decision-making.  
+- **Computer Vision:** Image, object, and action recognition for real-world tasks.  
+- **Autonomous Systems:** AI for perception, motion prediction, and decision-making.  
+- **Graph Neural Networks:** Learning from graph data for complex relationships.
 
 
 </br>
