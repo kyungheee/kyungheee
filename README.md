@@ -2,9 +2,14 @@
 
 </br>
 
-## 🎓 Education
-- Master's: Mathematics (Mathematical Data Science) at Korea University 
-- Bachelor's: Physics at Konkuk University
+## 🎓 **Education**
+
+- **Master's in Mathematics (Mathematical Data Science)**
+  <img src="https://tse4.mm.bing.net/th?id=OIP.ywoAbEb_rusVR5ZQbmYFMgHaEO&w=270&h=270&c=7" width="20"/> Korea University
+
+- **Bachelor's in Physics**  <img src="https://tse3.mm.bing.net/th?id=OIP.O24kpGzABOyqAXQCrSzBxgAAAA&w=400&h=400&c=7" width="15"/> Konkuk University
+
+
 
 </br>
 
