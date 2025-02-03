@@ -1,16 +1,17 @@
 ### Hi 👋
+
 </br>
 
 ## 🎓 Education
-
+- Master's: Mathematics (Mathematical Data Science) at Korea University 
 - Bachelor's: Physics at Konkuk University
-- Master's: Mathematics (MDS) at Korea University
+
 </br>
 
 ## 🌳 Areas of Interest
+- Computer Vision 
 - Bayesian Optimization
 - Graph Neural Network
-- Computer Vision 
 
 </br>
 
@@ -24,10 +25,15 @@
 - 2023 전주시 데이터 분석 공모전 [click!](https://github.com/kyungheee/2023_Jeonju_Data_Analysis_Competition)
 - 2023 새만금 공공 빅데이터 활용 공모전 [click!](https://github.com/kyungheee/2023_Saemangeum_Data_Analysis_Competition)
 - 2024 인천공항 교통체계 개선 아이디어 공모전 [click!](https://github.com/kyungheee/2024-Incheon-International-Airport-MaaS-Project)
-- 2024 삼성 AI Challenge : black-box optimization (in progress)
+- 2024 삼성 AI Challenge : black-box optimization [click!](https://github.com/kyungheee/2024-Samsung-AI-Challenge-Black-box-Optimization)
 
 </br>
 
+## 👥 **Teams**
+- [<img src="https://avatars.githubusercontent.com/u/186797904?s=200&v=4" width="20"/>](https://github.com/airing-ku) Airing: demand-responsive mobility service for Incheon Airport with optimal pod formation and route optimization
+- [<img src="https://avatars.githubusercontent.com/u/194212824?s=200&v=4" width="20"/>](https://github.com/moobean) Moobean: AI trainer providing motion recognition and real-time voice feedback for effective workouts 
+
+</br>
 
 ## 👩🏻‍💻 Skills & Expertise
 - Programming Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
@@ -36,7 +42,6 @@
 - Data Visualization: <img src="https://img.shields.io/badge/Tableau-004088?style=plastic&logo=Tableau&logoColor=white"/>
 - Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>, <img src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=Blender&logoColor=white"/>
 - Photo/Video Tools: <img src="https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=plastic&logo=Adobe&logoColor=white"/>, <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=plastic&logo=Adobe&logoColor=white"/>
-
 
 
 
