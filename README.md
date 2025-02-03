@@ -24,7 +24,7 @@
 
 ## 🚀 **Projects**
 
-- **Samsung AI Challenge: Black-box Optimization**  
+- **Samsung AI Challenge: Black-box Optimization 2024**  
   Developed an offline model for black-box optimization algorithms. [GitHub](https://github.com/kyungheee/2024-Samsung-AI-Challenge-Black-box-Optimization)
 
 - **I/O Workload Analysis for Autonomous Vehicles (KCC 2024)**  
@@ -34,8 +34,7 @@
   Built an LSTM model to classify single and double jumps in jump rope.
 
 - **Incheon Airport Mobility System Improvement 2024**  
-  Proposed AI-driven demand-responsive mobility solutions. [GitHub](https://github.com/kyungheee/2024-Incheon-International-Airport-MaaS-Project)
-
+  Proposed AI-driven demand-responsive mobility solutions.
 - **Saemangeum Public Big Data Challenge 2023**  
   Suggested optimal locations for EV charging stations based on demand prediction. [GitHub](https://github.com/kyungheee/2023_Saemangeum_Data_Analysis_Competition)
 
