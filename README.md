@@ -30,11 +30,16 @@
 
 
 ## 👩🏻‍💻 Skills & Expertise
-- Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
-- Deep Learning Frameworks: <img src="https://img.shields.io/badge/pytorch-DD0700?style=plastic&logo=pytorch&logoColor=white"/>, <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+- Programming Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
+- Deep Learning Frameworks: <img src="https://img.shields.io/badge/PyTorch-DD0700?style=plastic&logo=pytorch&logoColor=white"/>, <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+- Web Development: <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 - Data Visualization: <img src="https://img.shields.io/badge/Tableau-004088?style=plastic&logo=Tableau&logoColor=white"/>
-- Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
-- 3D Modeling: <img src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=Blender&logoColor=white"/>
+- Design Tools: <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>, <img src="https://img.shields.io/badge/Blender-E87D0D?style=plastic&logo=Blender&logoColor=white"/>
+- Photo/Video Tools: <img src="https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=plastic&logo=Adobe&logoColor=white"/>, <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=plastic&logo=Adobe&logoColor=white"/>
+
+
+
+
 
 </br>
 
