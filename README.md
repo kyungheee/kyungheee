@@ -23,8 +23,8 @@
 </br>
 
 ## 🚀 Projects
-- **Moobean: AI Health Coach for Personalized Training (In Development)**
-  Building an AI trainer with real-time motion capture and voice feedback for exercise counting, personalized routines.
+- **AI Health Trainer for Personalized Training (In Development)**  
+  Developing an AI trainer with real-time motion capture and voice feedback for exercise counting and personalized workout routines.
 
 - **Incheon Airport Mobility System Improvement 2024**  
   Developed AI-driven demand-responsive transport (DRT) service "Airing" for efficient, eco-friendly airport transit.
