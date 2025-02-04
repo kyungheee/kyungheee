@@ -23,6 +23,11 @@
 </br>
 
 ## 🚀 Projects
+- **Moobean: AI Health Coach for Personalized Training (In Development)**
+  Building an AI trainer with real-time motion capture and voice feedback for exercise counting, personalized routines.
+
+- **Incheon Airport Mobility System Improvement 2024**  
+  Developed AI-driven demand-responsive transport (DRT) service "Airing" for efficient, eco-friendly airport transit.
 
 - **Samsung AI Challenge: Black-box Optimization 2024**  
   Developed an offline model for black-box optimization algorithms. [GitHub](https://github.com/kyungheee/2024-Samsung-AI-Challenge-Black-box-Optimization)
@@ -32,9 +37,7 @@
 
 - **Jump Rope Activity Classification Model**  
   Built an LSTM model to classify single and double jumps in jump rope.
-
-- **Incheon Airport Mobility System Improvement 2024**  
-  Proposed AI-driven demand-responsive mobility solutions.
+  
 - **Saemangeum Public Big Data Challenge 2023**  
   Suggested optimal locations for EV charging stations based on demand prediction. [GitHub](https://github.com/kyungheee/2023_Saemangeum_Data_Analysis_Competition)
 
